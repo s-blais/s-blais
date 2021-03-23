@@ -1,4 +1,8 @@
-### Hi there 👋
+#### Greetings Gitters,
+
+I'm a freshly-minted full-stack developer (courtesy of [Flatiron School](https://flatironschool.com/)), eager to use all these fun new tools in my toolbelt.
+
+
 
 <!--
 **s-blais/s-blais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
