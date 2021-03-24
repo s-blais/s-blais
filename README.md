@@ -1,10 +1,11 @@
-**Greetings Gitters,**
+## Greetings Gitters,
 
 I'm a freshly-minted full-stack developer (courtesy of [Flatiron School](https://flatironschool.com/)), eager to use and expand the fun new tools in my toolbelt.
 
 I am excited to put my new knowledge to work with a small- to medium-sized team as a junior developer, product/project manager, or techy factotum. Design-emphasized environments particularly resonate with me, as I have worked among designers of many kinds for years. 
 
-Some skills I'd prefer to not keep to myself:
+ 
+### Some things I can do:
 
 ![](https://img.shields.io/badge/ruby-grey?logo=ruby) 
 ![](https://img.shields.io/badge/rails-grey?logo=ruby-on-rails&logoColor=white) 
@@ -21,4 +22,5 @@ Some skills I'd prefer to not keep to myself:
 ![](https://img.shields.io/badge/indesign-grey?logo=adobe-indesign&logoColor=white) 
 ![](https://img.shields.io/badge/basecamp-grey?logo=basecamp&logoColor=white) 
 ![](https://img.shields.io/badge/workspace-grey?logo=google&logoColor=white) 
-<!-- ![](https://img.shields.io/badge/publisher-lightgrey?logo=affinity-publisher&logoColor=white)  -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-blais&hide=less&layout=compact&theme=graywhite)
