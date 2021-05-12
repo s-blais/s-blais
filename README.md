@@ -15,8 +15,10 @@ I am excited to put my new knowledge to work with a small- to medium-sized team 
 ![](https://img.shields.io/badge/react-grey?logo=react&logoColor=white) 
 ![](https://img.shields.io/badge/redux-grey?logo=redux&logoColor=white) 
 ![](https://img.shields.io/badge/github-grey?logo=github&logoColor=white) 
-![](https://img.shields.io/badge/postman-grey?logo=postman&logoColor=white) 
 ![](https://img.shields.io/badge/vs_code-grey?logo=visual-studio-code&logoColor=white) 
+![](https://img.shields.io/badge/Xcode-grey?logo=xcode&logoColor=white) 
+![](https://img.shields.io/badge/postman-grey?logo=postman&logoColor=white) 
+
 
 ![](https://img.shields.io/badge/photoshop-grey?logo=adobe-photoshop&logoColor=white) 
 ![](https://img.shields.io/badge/indesign-grey?logo=adobe-indesign&logoColor=white) 
