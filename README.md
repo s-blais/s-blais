@@ -4,6 +4,7 @@ I'm a freshly-minted full-stack developer (courtesy of [Flatiron School](https:/
 
 I am excited to put my new knowledge to work with a small- to medium-sized team as a junior developer, product/project manager, or techy factotum. Design-emphasized environments particularly resonate with me, as I have worked among designers of many kinds for years. 
 
+Since January 2022, I've been doing lots of work in a MySQL/[Retool](https://retool.com/) environment, developing internal apps for an investment fund. Cool stuff; have been learning a lot!
  
 ### Some things I can do:
 
@@ -16,6 +17,8 @@ I am excited to put my new knowledge to work with a small- to medium-sized team 
 ![](https://img.shields.io/badge/redux-grey?logo=redux&logoColor=white) 
 ![](https://img.shields.io/badge/github-grey?logo=github&logoColor=white) 
 ![](https://img.shields.io/badge/vs_code-grey?logo=visual-studio-code&logoColor=white) 
+![](https://img.shields.io/badge/MySQL-grey?logo=mysql&logoColor=white) 
+![](https://img.shields.io/badge/Retool-grey) 
 ![](https://img.shields.io/badge/Xcode-grey?logo=xcode&logoColor=white) 
 ![](https://img.shields.io/badge/postman-grey?logo=postman&logoColor=white) 
 
